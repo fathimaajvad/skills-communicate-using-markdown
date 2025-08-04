@@ -23,3 +23,12 @@ Here's a small Python example:
 greet("GitHub User")
 greet() # Calls with default "World"
 ```
+## My To-Do List
+- [x] Turn on GitHub Pages
+
+- [ ] Outline my portfolio
+
+- [x] Introduce myself to the world (Example of a completed task)
+
+- [ ] Learn more Markdown
+
